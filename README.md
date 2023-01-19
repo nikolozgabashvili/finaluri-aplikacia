@@ -1,0 +1,2 @@
+# finaluri-aplikacia
+finaluris aplikacia
